@@ -3,21 +3,22 @@ Project
 give ruby material corresponding to responses to next Quora question.
 
 
-I enlarge a little for respond to the question :
+I enlarge a little for respond to the question : In a long programming career, what are algorithms which you 
+programs the most frequently ?
 
+Code can be materials for ruby learner, and more experimented rubysh 
+should enjoy read theme also :)
 
-   In a long programming career, what are algorithms which you 
-   programs the most frequently ?
-
-Code can be materials for ruby learner, and
-more experimented rubysh should enjoy read theme also :)
+For each probleme:
+* simples.rb : give solutions in pure, non-concurrent readable solution(s) from naive to optimized
+* concurrent.rb : give a solution which use cpu cores (suppose do be effective with jruby/rubinius interp)
+* test.rb : test and memory/time comparaison of each solution
+* eventually a README.md  for give some theoric explanations, link...
 
 CORA QUESTION:
 =============
 What are the 10 algorithms one must know in order to solve most algorithm
 challenges/puzzles?
-
-
  
 RESPONSE 1 :
 ============
@@ -36,6 +37,7 @@ or a preflow-push algorithm; or, if you are preparing an ACM codebook, Dinic's a
 
 RESPONSE 2 :
 ============
+
 Daniel Lubarov append :
 * sweep line
 * finding strongly connected components, such as Tarjan's...
@@ -49,15 +51,6 @@ My responses
 * plot timed curve
 
 
-Project
-=======
-Solve each 16 algorithmes in beautifule ruby code.
-
-For each probleme:
- * simples.rb : give solutions in pure, non-concurrent readable solution(s) from naive to optimized
- * concurrent.rb : give a solution which use cpu cores (suppose do be effective with jruby/rubinius interp)
- * test.rb : test and memory/time comparaison of each solution
- * eventually a README.md  for give some theoric explanations, link...
  
 How to contibute ?
 ==================
