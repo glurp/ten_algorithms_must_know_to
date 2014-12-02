@@ -1,15 +1,18 @@
+Project
+=======
+give ruby material corresponding to responses to next Quora question.
+I enlarge a little for respond to the question :
+   In a long programming career, what are algorithms which you 
+   programs the most frequently ?
+
+Code can be materials for ruby learner, and
+more experimented rubysh should enjoy read theme also :)
 
 CORA QUESTION:
 =============
 What are the 10 algorithms one must know in order to solve most algorithm
 challenges/puzzles?
 
-Project
-=======
-give ruby material corresponding to responses to this quesqtion
-
-Code can be materials for ruby learner, and
-more experimented rubysh should enjoy read theme also :)
 
  
 RESPONSE 1 :
@@ -36,9 +39,6 @@ Daniel Lubarov append :
 
 My responses
 ===========
-I modify a little for respond to the question :
- In a long programming career, what are algorithms which you 
- programs the most frequently ?
  
 * grammar analyse with pure code (without  parser helper)
 * solve a combinatory probleme with generate/test/backtrack : sudoku
