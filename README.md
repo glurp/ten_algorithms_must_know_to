@@ -56,7 +56,7 @@ How to contibute ?
 ==================
 All content must be original public domain (please do not copy Resetta code site...)
 you can put copyright.
-Feel free to contibute by posting submissions bye ???
+Feel free to contibute by posting submissions bye pull-request
 
 Kepp Objectives in mind :
 * Material for ruby learner
@@ -65,3 +65,10 @@ Kepp Objectives in mind :
 * Not definitive solution : solutions are starting point to programmer reflexion, 
 * time/memory perfomances are last-preocupations : they must not truble beautiful code.
 
+How to make a pull request :
+* (create your github account, with your email)
+* Fork the project ten... to your github account
+* Clone the fork to your home machine : git clone http://youraccount@github.com/youraccount/ten...
+* Make your features additions or bug fix 
+* Commit your fork :  git commit -a -m "..." ;  git push origin master
+* Send me a pull request : on GitHub on your project fork, click 'pull request' on the head of the page
