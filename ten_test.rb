@@ -10,6 +10,7 @@ def ten_test
 
   if trace 
     lmethods.each { |met| (puts "#{met}:" ; send(met,true); puts)  if !filter || met =~ /#{filter}/ }
+    exit(0)
   end
 
   Benchmark.bm { |x|
